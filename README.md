@@ -4,7 +4,7 @@ Here's a simplified version with your name:
 
 # Sneha S J - 3D Room Portfolio
 
-Check out my [ROOM]((https://snehasj.vercel.app/))
+Check out my [ROOM]([https://snehasj.vercel.app/])
 
 ## Description
 
