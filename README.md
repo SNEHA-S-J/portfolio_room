@@ -1,10 +1,10 @@
-Here's a simplified version with your name:
+It looks like the link might be broken or missing a valid URL. Here's a revised version with the placeholder link fixed:
 
 ---
 
 # Sneha S J - 3D Room Portfolio
 
-Check out my [ROOM]([https://snehasj.vercel.app/])
+Check out my [ROOM](https://snehasj.vercel.app/)
 
 ## Description
 
@@ -15,7 +15,6 @@ This project showcases a 3D room portfolio created using Blender, Vite, Three.js
 * **3D Environment**: Explore a designed room with interactive controls.
 * **Blender & Three.js**: Used for creating and rendering the 3D models.
 * **Vite**: Fast web development tool for optimized performance.
-
 
 ## Badges
 
